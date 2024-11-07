@@ -20,28 +20,6 @@
 - **Looking to work on position:** Senior AI developer
 - **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Computer Vision, Generative AI), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
 - **Hobby:** Boxing, Swimming
-<h1 align="center">
-    Hi <img src="./assets/Hi.gif" width="30px"><br>
-    I'm <b>Senior Fullstack AI Engineer</b><br />
-    Welcome to <b>KingJupyter</b>
-
-</h1>
-
-<div align="center"> 
-    <a href="http://github.com/KingJupyter?tab=followers">
-    <img alt="Followers" src="https://komarev.com/ghpvc/?username=KingJupyter&color=blue"></a>
-    <a href="http://github.com/KingJupyter?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/KingJupyter?color=4C1&logo=github"></a>
-    <!-- github -->
-    <a href="http://github.com/KingJupyter/KingJupyter" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/KingJupyter/KingJupyter?label=Profile%20update&style=fflat-square"></a>
-</div>
-<br>
-
-### ABOUT ME
-
-- **Looking to work on position:** Senior AI developer
-- **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Computer Vision, Generative AI), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
-- **Hobby:** Boxing, Swimming
 
 ### TECHNOLOGY
 
@@ -59,19 +37,19 @@
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/python/numpy/default.asp">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/numpy-logo.png" alt="Numpy" width="65" height="65" />
+                <img src="https://github.com/KingJupyter/assets/main/numpy-logo.png" alt="Numpy" width="65" height="65" />
                 <br>Numpy
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/python/pandas/default.asp">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/pandas-logo.png" alt="Pandas" width="65" height="65" />
+                <img src="https://github.com/KingJupyter/assets/main/pandas-logo.png" alt="Pandas" width="65" height="65" />
                 <br>Pandas
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/python/scipy/index.php">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/scipy-logo.jfif" width="65" height="65" alt="Scipy" />
+                <img src="https://github.com/KingJupyter/assets/main/scipy-logo.jfif" width="65" height="65" alt="Scipy" />
                 <br>Scipy
             </a>
         </td>
@@ -89,25 +67,25 @@
         </td>
         <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/computer-vision/">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/cv-logo.png" width="65" height="65" alt="OpenCV" />
+                <img src="https://github.com/KingJupyter/assets/main/cv-logo.png" width="65" height="65" alt="OpenCV" />
                 <br>OpenCV
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://python.langchain.com/v0.1/docs/additional_resources/tutorials/">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/langchain-logo.jfif" alt="LangChain" width="65" height="65" />
+                <img src="https://github.com/KingJupyter/assets/main/langchain-logo.jfif" alt="LangChain" width="65" height="65" />
                 <br>LangChain
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/gen_ai/chatgpt-3-5/index.php">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/chatgpt-logo.png" width="65" height="65" alt="ChatGPT" />
+                <img src="https://github.com/KingJupyter/assets/main/chatgpt-logo.png" width="65" height="65" alt="ChatGPT" />
                 <br>ChatGPT
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/gen_ai/index.php">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/generative%20ai%20logo.png" width="65" height="65" alt="Generative AI" />
+                <img src="https://github.com/KingJupyter/assets/main/generative%20ai%20logo.png" width="65" height="65" alt="Generative AI" />
                 <br>Generative AI
             </a>
         </td>
@@ -115,31 +93,31 @@
     <tr>
         <td align="center" width="96">
             <a href="https://github.com/mlabonne/llm-course">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/llm-logo.jfif" width="65" height="65" alt="LLM" />
+                <img src="https://github.com/KingJupyter/assets/main/llm-logo.jfif" width="65" height="65" alt="LLM" />
                 <br>LLM
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/nlp-logo.jpg" width="65" height="65" alt="NLP" />
+                <img src="https://github.com/KingJupyter/assets/main/nlp-logo.jpg" width="65" height="65" alt="NLP" />
                 <br>NLP
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/datascience/default.asp">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/data%20science-logo.png" width="65" height="65" alt="Data Science" />
+                <img src="https://github.com/KingJupyter/assets/main/data%20science-logo.png" width="65" height="65" alt="Data Science" />
                 <br>Data Science
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/bs-logo.png" width="65" height="65" alt="Beautiful Soup" />
+                <img src="https://github.com/KingJupyter/assets/main/bs-logo.png" width="65" height="65" alt="Beautiful Soup" />
                 <br>Beautiful Soup
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://docs.scrapy.org/en/latest/intro/tutorial.html">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/scrapy-logo.png" width="65" height="65" alt="Scrapy" />
+                <img src="https://github.com/KingJupyter/assets/main/scrapy-logo.png" width="65" height="65" alt="Scrapy" />
                 <br>Scrapy
             </a>
         </td>
@@ -153,7 +131,7 @@
         </td>
         <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/flask-tutorial/">
-                <img src="https://github.com/KingJupyter/KingJupyter/assets/main/flask.png" width="65" height="65" alt="Flask" />
+                <img src="https://github.com/KingJupyter/assets/main/flask.png" width="65" height="65" alt="Flask" />
                 <br>Flask
             </a>
         </td>
@@ -339,19 +317,19 @@
     </td>
     <td align="center" width="96">
         <a href="https://www.w3schools.com/python/numpy/default.asp">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/numpy-logo.png" alt="Numpy" width="65" height="65" />
+            <img src="https://github.com/KingJupyter/assets/main/numpy-logo.png" alt="Numpy" width="65" height="65" />
             <br>Numpy
         </a>
     </td>
     <td align="center" width="96">
         <a href="https://www.w3schools.com/python/pandas/default.asp">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/pandas-logo.png" alt="Pandas" width="65" height="65" />
+            <img src="https://github.com/KingJupyter/assets/main/pandas-logo.png" alt="Pandas" width="65" height="65" />
             <br>Pandas
         </a>
     </td>
     <td align="center" width="96">
         <a href="https://www.w3schools.com/python/scipy/index.php">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/scipy-logo.jfif" width="65" height="65" alt="Scipy" />
+            <img src="https://github.com/KingJupyter/assets/main/scipy-logo.jfif" width="65" height="65" alt="Scipy" />
             <br>Scipy
         </a>
     </td>
@@ -370,55 +348,55 @@
     </td>
     <td align="center" width="96">
         <a href="https://www.geeksforgeeks.org/computer-vision/">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/cv-logo.png" width="65" height="65" alt="OpenCV" />
+            <img src="https://github.com/KingJupyter/assets/main/cv-logo.png" width="65" height="65" alt="OpenCV" />
             <br>OpenCV
         </a>
     </td>
   <td align="center" width="96">
         <a href="https://python.langchain.com/v0.1/docs/additional_resources/tutorials/">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/langchain-logo.jfif" alt="LangChain" width="65" height="65" />
+            <img src="https://github.com/KingJupyter/assets/main/langchain-logo.jfif" alt="LangChain" width="65" height="65" />
             <br>LangChain
         </a>
     </td>
     <td align="center" width="96">
         <a href="https://www.w3schools.com/gen_ai/chatgpt-3-5/index.php">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/chatgpt-logo.png" width="65" height="65" alt="ChatGPT" />
+            <img src="https://github.com/KingJupyter/assets/main/chatgpt-logo.png" width="65" height="65" alt="ChatGPT" />
             <br>ChatGPT
         </a>
     </td>
     <td align="center" width="96">
         <a href="https://www.w3schools.com/gen_ai/index.php">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/generative%20ai%20logo.png" width="65" height="65" alt="Generative AI" />
+            <img src="https://github.com/KingJupyter/assets/main/generative%20ai%20logo.png" width="65" height="65" alt="Generative AI" />
             <br>Generative AI
         </a>
     </td>
     <td align="center" width="96">
         <a href="https://github.com/mlabonne/llm-course">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/llm-logo.jfif" width="65" height="65" alt="LLM" />
+            <img src="https://github.com/KingJupyter/assets/main/llm-logo.jfif" width="65" height="65" alt="LLM" />
             <br>LLM
         </a>
     </td>
     <td align="center" width="96">
         <a href="https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/nlp-logo.jpg" width="65" height="65" alt="NLP" />
+            <img src="https://github.com/KingJupyter/assets/main/nlp-logo.jpg" width="65" height="65" alt="NLP" />
             <br>NLP
         </a>
     </td>
     <td align="center" width="96">
         <a href="https://www.w3schools.com/datascience/default.asp">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/data%20science-logo.png" width="65" height="65" alt="Data Science" />
+            <img src="https://github.com/KingJupyter/assets/main/data%20science-logo.png" width="65" height="65" alt="Data Science" />
             <br>Data Science
         </a>
     </td>
     <td align="center" width="96">
         <a href="https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/bs-logo.png" width="65" height="65" alt="Beautiful Soup" />
+            <img src="https://github.com/KingJupyter/assets/main/bs-logo.png" width="65" height="65" alt="Beautiful Soup" />
             <br>Beautiful Soup
         </a>
     </td>
     <td align="center" width="96">
         <a href="https://docs.scrapy.org/en/latest/intro/tutorial.html">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/scrapy-logo.png" width="65" height="65" alt="Scrapy" />
+            <img src="https://github.com/KingJupyter/assets/main/scrapy-logo.png" width="65" height="65" alt="Scrapy" />
             <br>Scrapy
         </a>
     </td>
@@ -431,7 +409,7 @@
       <br>Django
         <td align="center" width="96">
         <a href="https://www.geeksforgeeks.org/flask-tutorial/">
-            <img src="https://github.com/KingJupyter/KingJupyter/assets/main/flask.png" width="65" height="65" alt="Flask" />
+            <img src="https://github.com/KingJupyter/assets/main/flask.png" width="65" height="65" alt="Flask" />
             <br>Flask
         </a>
     </td>
