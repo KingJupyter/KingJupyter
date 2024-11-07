@@ -38,20 +38,20 @@
         <td align="center" width="96">
             <a href="https://www.w3schools.com/python/numpy/default.asp">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/numpy-logo.png" alt="Numpy" width="65" height="65" />
-                <br>Numpy
             </a>
+            <br>Numpy
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/python/pandas/default.asp">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/pandas-logo.png" alt="Pandas" width="65" height="65" />
-                <br>Pandas
             </a>
+            <br>Pandas
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/python/scipy/index.php">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/scipy-logo.jfif" width="65" height="65" alt="Scipy" />
-                <br>Scipy
             </a>
+            <br>Scipy
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
@@ -68,58 +68,58 @@
         <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/computer-vision/">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/cv-logo.png" width="65" height="65" alt="OpenCV" />
-                <br>OpenCV
             </a>
+            <br>OpenCV
         </td>
         <td align="center" width="96">
             <a href="https://python.langchain.com/v0.1/docs/additional_resources/tutorials/">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/langchain-logo.jfif" alt="LangChain" width="65" height="65" />
-                <br>LangChain
             </a>
+            <br>LangChain
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/gen_ai/chatgpt-3-5/index.php">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/chatgpt-logo.png" width="65" height="65" alt="ChatGPT" />
-                <br>ChatGPT
             </a>
+            <br>ChatGPT
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/gen_ai/index.php">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/generative%20ai%20logo.png" width="65" height="65" alt="Generative AI" />
-                <br>Generative AI
             </a>
+            <br>Generative AI
         </td>
     </tr>
     <tr>
         <td align="center" width="96">
             <a href="https://github.com/mlabonne/llm-course">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/llm-logo.jfif" width="65" height="65" alt="LLM" />
-                <br>LLM
             </a>
+            <br>LLM
         </td>
         <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/nlp-logo.jpg" width="65" height="65" alt="NLP" />
-                <br>NLP
             </a>
+            <br>NLP
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/datascience/default.asp">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/data%20science-logo.png" width="65" height="65" alt="Data Science" />
-                <br>Data Science
             </a>
+            <br>Data Science
         </td>
         <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/bs-logo.png" width="65" height="65" alt="Beautiful Soup" />
-                <br>Beautiful Soup
             </a>
+            <br>Beautiful Soup
         </td>
         <td align="center" width="96">
             <a href="https://docs.scrapy.org/en/latest/intro/tutorial.html">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/scrapy-logo.png" width="65" height="65" alt="Scrapy" />
-                <br>Scrapy
             </a>
+            <br>Scrapy
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Laravel" />
