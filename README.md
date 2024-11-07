@@ -58,20 +58,20 @@
         <td align="center" width="96">
             <a href="https://www.tensorflow.org/tutorials">
                 <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
-                <br>Tensorflow
             </a>
+            <br>Tensorflow
         </td>
         <td align="center" width="96">
             <a href="https://pytorch.org/tutorials/">
               <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Laravel" />
-              <br>Pytorch
             </a>
+            <br>Pytorch
         </td>
         <td align="center" width="96">
             <a href="https://scikit-learn.org/1.4/tutorial/index.html">
               <img src="./assets/scikitlearn.png" alt="Scikit" width="65" height="65" />
-              <br>Scikit
             </a>
+            <br>Scikit
         </td>
         <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/computer-vision/">
