@@ -132,8 +132,8 @@
         <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/flask-tutorial/">
                 <img src="https://github.com/KingJupyter/KingJupyter/blob/master/assets/flask.png" width="65" height="65" alt="Flask" />
-                <br>Flask
             </a>
+            <br>Flask
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
